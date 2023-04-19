@@ -60,7 +60,7 @@ export default function FAQScreen({ faq }) {
               }}
             >
               Não consegue encontrar a resposta que procura? Entre em contato
-              com nosso
+              com nosso {''}
               <Link
                 href='mailto:contato@alura.com.br'
                 styleSheet={{

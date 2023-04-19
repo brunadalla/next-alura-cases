@@ -207,13 +207,13 @@ export default function HomeScreen() {
                       }}
                     >
                       <Text>Confira as principais dúvidas</Text>
-                      <Icon
+                      {/* <Icon
                         styleSheet={{
                           iconVariant: "chevronRight",
                           marginLeft: theme.space.xpx,
                         }}
                         aria-hidden='true'
-                      />
+                      /> */}
                     </Text>
                   </Link>
                 </Box>
